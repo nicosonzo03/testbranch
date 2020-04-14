@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORDINATEMPERATURA", "ORDINATEMPERATURA\ORDINATEMPERATURA.csproj", "{11E216DC-5454-48E4-B20B-C7F05B13B170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDLL", "TestDLL\TestDLL.csproj", "{B18E3311-BCAA-4028-910F-268E6D947BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E216DC-5454-48E4-B20B-C7F05B13B170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E216DC-5454-48E4-B20B-C7F05B13B170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E216DC-5454-48E4-B20B-C7F05B13B170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E216DC-5454-48E4-B20B-C7F05B13B170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18E3311-BCAA-4028-910F-268E6D947BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18E3311-BCAA-4028-910F-268E6D947BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18E3311-BCAA-4028-910F-268E6D947BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18E3311-BCAA-4028-910F-268E6D947BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED8AA78-3807-4950-9BE2-BF482561519B}
+	EndGlobalSection
+EndGlobal

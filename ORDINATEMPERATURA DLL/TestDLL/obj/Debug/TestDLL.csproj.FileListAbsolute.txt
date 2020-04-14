@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\bin\Debug\TestDLL.dll
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\obj\Debug\TestDLL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\obj\Debug\TestDLL.dll
+C:\Users\Asus\source\repos\ORDINATEMPERATURA\TestDLL\obj\Debug\TestDLL.pdb
